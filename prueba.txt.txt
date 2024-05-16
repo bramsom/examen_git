@@ -1,2 +1,7 @@
 segundo cambio desde mi fichero en la rama main
+<<<<<<< HEAD
 quinto cambio desde la rama main
+=======
+tercer cambio desde la rama Qa_branch
+cuarto cambio desde la rama Qa_branch
+>>>>>>> Qa_branch
