@@ -5,4 +5,9 @@ quinto cambio desde la rama main
 tercer cambio desde la rama Qa_branch
 cuarto cambio desde la rama Qa_branch
 >>>>>>> Qa_branch
+<<<<<<< HEAD
 octavo cambio desde la rama main
+=======
+sexto cambio desde la rama Prod_branch
+septimo cambio desde la rama Prod_branch
+>>>>>>> Prod_branch
